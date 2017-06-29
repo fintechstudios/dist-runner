@@ -1,0 +1,15 @@
+{
+  "name": "dist-runner",
+  "version": "1.0.0",
+  "description": "Run commands in parallel for many distribution configs.",
+  "bin": "./bin/dist-runner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fintechstudios/dist-runner.git"
+  },
+  "author": "Dylan Praul",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.10.0"
+  }
+}
